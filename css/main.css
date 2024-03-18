@@ -409,7 +409,7 @@ header ul li .current{
     color: #3d35b3;
     font-family: "white-space", arial;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 35px;
     text-align: left;
     margin-bottom: 100px;
     letter-spacing: 10px;
@@ -418,7 +418,7 @@ header ul li .current{
     color: #000000;
     font-family: "white-space", arial;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 25px;
     text-align: left;
     margin: 40px,80px,40px,200px;
     text-indent: 2em;
@@ -494,7 +494,7 @@ header ul li .current{
     color: #3d35b3;
     font-family: "raleway-semibold", arial;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 35px;
     text-align: left;
     margin: auto;
     letter-spacing: 10px;
@@ -504,7 +504,7 @@ header ul li .current{
     color: #000000;
     font-family: "white-space", pre;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 25px;
     text-align: left;
     margin: auto;
     padding-top: 100px;
