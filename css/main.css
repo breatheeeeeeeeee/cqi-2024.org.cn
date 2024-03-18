@@ -29,7 +29,7 @@
 /*  General CSS  */
 body{
     background: #fff;
- 
+    min-width:1100px;
 }
 
 .wrapper{
