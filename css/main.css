@@ -139,7 +139,7 @@ header ul li .current{
 .hero{
     width: 100%;
     margin: 0 auto;
-    min-height: 65vh;
+    min-height: 100vh;
     position: relative;
     top: 0;
     right: 0;
@@ -156,7 +156,7 @@ header ul li .current{
 .hero h2{
     color: #ffffff;
     text-align: center;
-    margin-top: 20%;
+    margin-top: 350px;
     font-size: 80px;
     
 }
