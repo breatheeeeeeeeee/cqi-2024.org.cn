@@ -139,7 +139,7 @@ header ul li .current{
 
 /*  Hero section  */
 .hero{
-    width: 1575px;
+    width: 100%;
     margin: 0 auto;
     min-height: 600px;
     position: relative;
