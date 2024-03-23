@@ -377,8 +377,8 @@ header ul li .current{
 }
 
 .wrapp img{
-
-  height: 30vh;
+    padding-left: 5%;
+  height: 20vh;
 }
 .wrapp h1{
     color: #080808;
@@ -620,6 +620,10 @@ header ul li .current{
     line-height: 2.5;
 	word-wrap: break-word; 
     
+}
+.services_home img{
+    padding-left: 10%;
+   
 }
 @media(max-width:790px){
     .services_home p{font-size:20px;}
